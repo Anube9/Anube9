@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anube9
-- 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning python, R, SQL
-- 💞️ I’m looking to collaborate on bioinformatics or health inmformatics projects and any data science projects in that matter
+- 👀 I’m a programming enthusiast
+- 🌱 I’m am working python, R, SQL,SAS,Unix
+- 💞️ I’m looking to collaborate on bioinformatics/health inmformatics projects and any data science projects in that matter
 - 📫 How to reach me anusha.bellapu9@gmail.com
 
 <!---
