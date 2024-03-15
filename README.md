@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anube9
+- 👋 Hi, I’m Anusha Bellapu
 - 👀 I’m a programming enthusiast
 - 🌱 I’m am working with python, R, SQL,SAS,Unix
 - 💞️ I’m looking to collaborate on bioinformatics/health informatics projects and any data science projects in that matter
