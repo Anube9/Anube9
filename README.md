@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anusha Bellapu
 - 👀 I’m a programming enthusiast
-- 🌱 I’m am working with python, R, SQL,SAS,Bash
+- 🌱 I am working with python, R, SQL,SAS,Bash
 - 💞️ I’m looking to collaborate on bioinformatics/health informatics projects and any data science projects in that matter
 - 📫 How to reach me anusha.bellapu9@gmail.com
 
